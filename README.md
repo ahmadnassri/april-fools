@@ -1,5 +1,7 @@
 # April Fools [![License][license-image]][license-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadnassri/april-fools.svg)](https://greenkeeper.io/)
+
 > A time bomb that will throw a randomly generated `Error` on April 1st.
 
 **WARNING: This is a foolproof way to to lose friends and alienate people, and will likely get you fired!**
